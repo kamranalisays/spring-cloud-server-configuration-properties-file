@@ -13,7 +13,7 @@ https://github.com/kamranalisays/spring-cloud-config-server
 3) How i used the file in the spring cloud config server project ?
 Answer : See the below example.
 
-In application properties at spring cloud config server , i used the git url of the repository(current) that contain the configuration file.
+In application.properties file at spring cloud config server(https://github.com/kamranalisays/spring-cloud-config-server) , i used the git url of the repository that contain the configuration file.
 
 
 spring.cloud.config.server.git.uri=https://github.com/kamranalisays/spring-cloud-server-configuration-properties-file.git
