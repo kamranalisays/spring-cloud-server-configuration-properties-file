@@ -15,3 +15,5 @@ Answer : See the below example.
 
 In application.properties file at spring cloud config server(https://github.com/kamranalisays/spring-cloud-config-server) , i used the git url of the repository that contain the configuration file.
 
+
+4) For more understanding explore the spring cloud config server project available at https://github.com/kamranalisays/spring-cloud-config-server
